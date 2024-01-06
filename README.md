@@ -1,4 +1,7 @@
-# public-images-gpu-tree is a repo to hold images, please see the license.
+# public-images-gpu-tree
+
+This is a simple repo to hold images generated with fooocus.
+Please see the accompanying [LICENSE](LICENSE).
 
 ![0](image0.png)
 ![1](image1.png)
